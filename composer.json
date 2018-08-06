@@ -1,0 +1,24 @@
+{
+    "name": "wheresmarco/logga",
+    "description": "",
+    "homepage": "https://github.com/WheresMarco/logga",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Hyyryläinen",
+            "email": "marco@wheresmar.co",
+            "homepage": "https://wheresmar.co"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/WheresMarco/logga",
+        "issues": "https://github.com/WheresMarco/logga/issues"
+    },
+    "keywords": [],
+    "autoload": {
+        "psr-0": {
+            "Logga\\": "src/"
+        }
+    }
+}
