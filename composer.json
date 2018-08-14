@@ -1,6 +1,6 @@
 {
     "name": "wheresmarco/logga",
-    "description": "",
+    "description": "Simple logger for PHP stuff. Add as a composer package and go nuts.",
     "homepage": "https://github.com/WheresMarco/logga",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
     "keywords": [],
     "autoload": {
         "psr-0": {
-            "Logga\\": "src/"
+            "WM": "src/"
         }
     }
 }
